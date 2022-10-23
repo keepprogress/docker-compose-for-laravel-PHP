@@ -1,0 +1,1 @@
+docker compose up --build -d mysql php server
